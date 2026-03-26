@@ -62,9 +62,7 @@ A system layer for organizing, understanding, and operating on knowledge.
 
 ## 🔗 Links
 
-- Website: https://velamap.com (coming soon)
-- Twitter/X: https://x.com/velamap (TBD)
-
+- Website: https://velamap.com 
 ---
 
 ## ⚡ Vision
